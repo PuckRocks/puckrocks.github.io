@@ -1,5 +1,5 @@
 
-<head><center><p style="font-size: 18px;">Puck Rocks</p></center></head>
+<head><center><p style="font-size: 60px;">Puck Rocks</p></center></head>
 <body style="background-color:black;">
     <p><p><a href="https://www.instagram.com/puck.rocks"><center>@instagram</center></a></p>
     <p><a href="https://www.threads.com/puck.rocks"><center>@threads</center></a></p>
