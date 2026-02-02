@@ -1,7 +1,7 @@
 
 <head><center><p style="font-size: 36px; color: red">Puck Rocks</p></center></head>
 <body style="background-color:black;">
-    <p><p><a href=mailto:"adampuckey@gmail.com"><center>@email</center></a></p>
+    <p><p><a href="mailto: adampuckey@gmail.com"><center>@email</center></a></p>
     <p><a href="https://www.threads.com/puck.rocks"><center>@threads</center></a></p>
     <p><a href="https://www.medium.com/@puck.rocks"><center>@Medium</center></a></p>
     <p><a href="https://www.facebook.com/puck.rocks"><center>@facebook</center></a></p>
